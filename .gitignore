@@ -1,4 +1,7 @@
-# Ignorer le fichier libburst-llvm-16.dylib
+#LFS
 Library/PackageCache/
-# Ignorer le dossier SourceAssetDB
+
 Library/SourceAssetDB
+
+#Local Data
+Library/Artifacts/
