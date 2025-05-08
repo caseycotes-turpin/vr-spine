@@ -1,0 +1,343 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.24f1 (11fa355cd605) revision 1178165'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Enterprise' Language: 'fr' Physical Memory: 32276 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/guingoes/Documents/VR-Spine/VR-Spine
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+53403
+-job-worker-count
+10
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/guingoes/Documents/VR-Spine/VR-Spine
+C:/Users/guingoes/Documents/VR-Spine/VR-Spine
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [33308]  Target information:
+
+Player connection [33308]  * "[IP] 10.110.1.14 [Port] 0 [Flags] 2 [Guid] 2037194838 [EditorId] 2037194838 [Version] 1048832 [Id] WindowsEditor(7,UROU1-GUINGOES) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [33308] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [33308] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 10
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 307.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/guingoes/Documents/VR-Spine/VR-Spine/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Laptop GPU (ID=0x2860)
+    Vendor:   NVIDIA
+    VRAM:     7948 MB
+    Driver:   32.0.15.6636
+Shader 'SyntyStudios/SkyboxUnlit': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/TriplanarBasic': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/CloudShader': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/CloudShaderNoFog': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/Basic_LOD_Shader': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/SkyboxUnlitNoFog': fallback shader 'wiiu' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56196
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.24f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.749997 seconds.
+- Loaded All Assemblies, in 14.433 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 626 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.081 seconds
+Domain Reload Profiling: 15513ms
+	BeginReloadAssembly (11085ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (635ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (799ms)
+	LoadAllAssembliesAndSetupDomain (1901ms)
+		LoadAssemblies (11082ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1897ms)
+			TypeCache.Refresh (1895ms)
+				TypeCache.ScanAssembly (1551ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (1081ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1046ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (734ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (180ms)
+			ProcessInitializeOnLoadMethodAttributes (117ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 18.059 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-VR-Spine
+<RI> Initialized touch support.
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+Found 0 scene poses
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Autohand.AutoHandUpdateDataWizard:FindScenePoses () (at Assets/AutoHand/Scripts/Editor/AutoHandUpdateDataWizard.cs:240)
+Autohand.AutoHandUpdateDataWizard:CheckSceneForOldPoses () (at Assets/AutoHand/Scripts/Editor/AutoHandUpdateDataWizard.cs:53)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: Assets/AutoHand/Scripts/Editor/AutoHandUpdateDataWizard.cs Line: 240)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  8.579 seconds
+Domain Reload Profiling: 26633ms
+	BeginReloadAssembly (4340ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (13608ms)
+		LoadAssemblies (11983ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1747ms)
+			TypeCache.Refresh (1654ms)
+				TypeCache.ScanAssembly (1568ms)
+			BuildScriptInfoCaches (77ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (8580ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (7738ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (558ms)
+			ProcessInitializeOnLoadMethodAttributes (7079ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Shader 'SyntyStudios/CloudShader': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/SkyboxUnlit': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/CloudShaderNoFog': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/TriplanarBasic': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/SkyboxUnlitNoFog': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/Basic_LOD_Shader': fallback shader 'wiiu' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 909 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 16687 unused Assets / (9.5 MB). Loaded Objects now: 6994.
+Memory consumption went from 509.8 MB to 500.2 MB.
+Total: 21.493200 ms (FindLiveObjects: 1.209700 ms CreateObjectMapping: 1.057200 ms MarkObjects: 5.622000 ms  DeleteObjects: 13.602600 ms)
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.785 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+<RI> Initialized touch support.
+Found 0 scene poses
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Autohand.AutoHandUpdateDataWizard:FindScenePoses () (at Assets/AutoHand/Scripts/Editor/AutoHandUpdateDataWizard.cs:240)
+Autohand.AutoHandUpdateDataWizard:CheckSceneForOldPoses () (at Assets/AutoHand/Scripts/Editor/AutoHandUpdateDataWizard.cs:53)
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+(Filename: Assets/AutoHand/Scripts/Editor/AutoHandUpdateDataWizard.cs Line: 240)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.259 seconds
+Domain Reload Profiling: 4045ms
+	BeginReloadAssembly (232ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (58ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (470ms)
+		LoadAssemblies (355ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (228ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (195ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (3259ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2899ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (664ms)
+			ProcessInitializeOnLoadMethodAttributes (2133ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Shader 'SyntyStudios/CloudShader': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/SkyboxUnlit': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/CloudShaderNoFog': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/TriplanarBasic': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/SkyboxUnlitNoFog': fallback shader 'wiiu' not found
+Shader 'SyntyStudios/Basic_LOD_Shader': fallback shader 'wiiu' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1297 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26845 unused Assets / (28.0 MB). Loaded Objects now: 7009.
+Memory consumption went from 0.64 GB to 0.61 GB.
+Total: 34.707200 ms (FindLiveObjects: 1.445100 ms CreateObjectMapping: 3.845000 ms MarkObjects: 6.000400 ms  DeleteObjects: 23.414500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 90582.158179 seconds.
+  path: Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Cast Spell.FBX
+  artifactKey: Guid(515e318ee1070154a8371248ea89fdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Cast Spell.FBX using Guid(515e318ee1070154a8371248ea89fdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a6690ee0665578d8b5955ae5e5caceb') in 0.7516828 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Jump Forward W Root.FBX
+  artifactKey: Guid(ed79206be3fa8d44880211b822780b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Jump Forward W Root.FBX using Guid(ed79206be3fa8d44880211b822780b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99d9732e811e99b9f9b7c79b70a19187') in 0.0440405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 47
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Spin Attack.FBX
+  artifactKey: Guid(113a32c65f90de6448913a8dab4ade96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Spin Attack.FBX using Guid(113a32c65f90de6448913a8dab4ade96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c66f20a306c8bff5362b7e73feecb20c') in 0.0415199 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Dodge Left.FBX
+  artifactKey: Guid(3b638e7932d76274a84212ab2306add9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Dodge Left.FBX using Guid(3b638e7932d76274a84212ab2306add9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0fd14abccfade9303325cef1a4dfc31b') in 0.0539544 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Dodge Right.FBX
+  artifactKey: Guid(97e3a082eebb77a4f90581711087a189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Target Training Dummy Evolution Pack Cute Series/Practice Dummy Cute Series/FBX/Practice Dummy@Dodge Right.FBX using Guid(97e3a082eebb77a4f90581711087a189) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27315010b0f8e6882421bd98599840f3') in 0.0503391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

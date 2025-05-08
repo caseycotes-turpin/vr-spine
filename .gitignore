@@ -1,0 +1,4 @@
+# Ignorer le fichier libburst-llvm-16.dylib
+Library/PackageCache/
+# Ignorer le dossier SourceAssetDB
+Library/SourceAssetDB
